@@ -1,0 +1,7 @@
+*@{
+viewData["Title"] - "Home page";
+}
+<div class -"text-center">
+<h1 class-"dispaly-4">Welcome to Azure App service </h1>
+<p>Don't stop untill you proud </p>
+</div>
